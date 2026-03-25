@@ -1,11 +1,11 @@
-## Hi there Remijus Ijomah 👋
-Frontend Engineer with 4+ years of experience building user focused, scalable web applications,  including fintech platforms, airline ticketing, and logistics.
+## Hi there, I'm Remijus Ijomah 👋
+Frontend Engineer with 4+ years of experience building user focused, scalable web applications,  including fintech platforms, airline ticketing system, and logistics.
 
 ## Tech Stack
 ## Frontend
 - React.js, Next.js, TypeScript
 - TailwindCSS, CSS module
-- Redux/Zustand
+- State management (ContextApi,Redux, Zustand)
   
 ## Backend (supporting skills)
 - Nestjs
@@ -14,19 +14,25 @@ Frontend Engineer with 4+ years of experience building user focused, scalable we
   
 ## DevOps & Tools
 - Docker
+- Git, CI/CD pipelines
+  
 ## Experience
-- 4+years building production-grade applications
-- 1 year in fintech (private repository)
-- 3 years in logistics (private repository)
+- 4+ years in frontend engineering building production-grade applications
+- 1 year in fintech building secure,  high-performance applications
+- 3 years in logistics
+- Delivered features through private repositories 
+- Strong experience collaborating in agile team and shipping production-ready code
 - Strong focus on performance,  scalability  and clean UI architecture
+- 
 
 ## What i Care About
 - Performance optimization (code splitting,  lazy loading)
-- Clean maintainable architecture
-- Great user experience
+- Scalable frontend architecture
+- Clean,  maintainable, and reusable components
+- Great user experience and accessibility n
 
 ## Note
-Most of my professional work was done in private repositories, so it is not reflected in my public GitHub contributions. 
+Most of my professional work was done in private repositories. 
 
 ## Contact
 Email: ricijomah@gmail.com 
