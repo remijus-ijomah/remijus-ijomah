@@ -8,7 +8,7 @@ Frontend Engineer with 4+ years of experience building user focused, scalable we
 - Redux/Zustand
   
 ## Backend (supporting skills)
-- Nests
+- Nestjs
 - FastAPI, Django
 - REST APIs
   
