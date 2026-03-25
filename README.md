@@ -10,7 +10,7 @@ Frontend Engineer with 4+ years of experience building user focused, scalable we
 ## Backend (supporting skills)
 - Nestjs
 - FastAPI, Django
-- REST APIs
+- REST API design & integration 
   
 ## DevOps & Tools
 - Docker
